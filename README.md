@@ -1,2 +1,2 @@
 # Enlazadas
-Sitio de rtesaías y creaciones
+Sitio de artesanías y creaciones
