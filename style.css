@@ -1,1 +1,65 @@
+/* Fondo tiza cálido y tipografía base en tono café oscuro */
+body {
+  background-color: #faf7f2; /* Color tiza suave */
+  color: #3e322b;            /* Marrón café oscuro para lectura cómoda */
+  font-family: Arial, sans-serif;
+  margin: 30px;
+}
+
+/* Título principal en tono terracota cálido */
+h1 {
+  color: #a85232;            /* Terracota / arcilla */
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 15px;
+}
+
+/* Subtítulos de sección en tono ocre / canela */
+h2 {
+  color: #b57338;            /* Ocre cálido */
+  font-size: 26px;
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+
+/* Títulos de cada producto en tono madera / siena */
+h3 {
+  color: #8c4a27;            /* Tierra siena */
+  font-size: 22px;
+  margin-top: 50px;          /* Separa bien un producto del anterior */
+  margin-bottom: 15px;
+}
+
+/* Párrafos y listas con buena separación */
+p {
+  font-size: 17px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+li {
+  font-size: 16px;
+  margin-bottom: 14px;       /* Espacio entre cada punto de la lista */
+  line-height: 1.6;
+}
+
+ul, ol {
+  margin-bottom: 35px;       /* Aire debajo de cada lista completa */
+}
+
+/* Ajuste de imágenes para que no se superpongan */
+img {
+  max-width: 240px;          /* Ancho máximo uniforme */
+  height: auto;              /* Mantiene la proporción original */
+  margin: 10px 12px 20px 0;  /* Espacio alrededor de cada foto */
+  border-radius: 8px;        /* Bordes suavemente redondeados */
+  border: 2px solid #e6dfd5; /* Marco sutil en tono arena */
+}
+
+/* Línea divisoria en tono arena */
+hr {
+  border: none;
+  border-top: 2px solid #e0d6c8;
+  margin: 45px 0;
+}
 
